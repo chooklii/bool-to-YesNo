@@ -1,6 +1,6 @@
 {
-  "name": "bool-to-YesNo",
-  "version": "1.0.0",
+  "name": "bool-to-yesno",
+  "version": "1.0.1",
   "description": "Convert boolean to equivalent Yes or No in a given language",
   "main": "index.js",
   "types": "index.d.ts",
@@ -20,14 +20,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/chooklii/bool-to-YesNo"
+    "url": "https://github.com/chooklii/bool-to-yesno"
   },
   "author": "Chooklii",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chooklii/bool-to-YesNo/issues"
+    "url": "https://github.com/chooklii/bool-to-yesno/issues"
   },
-  "homepage": "https://github.com/chooklii/bool-to-YesNo#readme",
+  "homepage": "https://github.com/chooklii/bool-to-yesno#readme",
   "devDependencies": {
     "jest": "26.6.3"
   }

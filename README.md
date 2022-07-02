@@ -1,4 +1,4 @@
-<h1>bool-To-YesNo</h1>
+<h1>bool-to-yesno</h1>
 
 Convert a given boolean to the equivalent word (Yes/No) in a defined language.
 
@@ -7,7 +7,7 @@ This package does support typescript.
 # Install
 
 ```js
-npm i bool-to-YesNo
+npm i bool-to-yesno
 ```
 
 # Example
@@ -22,13 +22,13 @@ boolToYesNo(true, "fr", yes) -> oui
 # Usage
 
 ```js
-const boolToYesNo = require('bool-to-YesNo')
+const boolToYesNo = require('bool-to-yesno')
 
 boolToYesNo.boolToYesNo(true) // Yes
 
 or
 
-import {boolToYesNo} from "bool-to-YesNo"
+import {boolToYesNo} from "bool-to-yesno"
 
 boolToYesNo(false, "en", true) // no
 ```
