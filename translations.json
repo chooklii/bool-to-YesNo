@@ -1,0 +1,38 @@
+{
+    "de": {
+        "true": "Ja",
+        "false": "Nein"
+    },
+    "en": {
+        "true": "Yes",
+        "false": "No"
+    },
+    "fr": {
+        "true": "Oui",
+        "false": "Non"
+    },
+    "es": {
+        "true": "Sí",
+        "false": "No"
+    },
+    "nl": {
+        "true": "Ja",
+        "false": "Nee"
+    },
+    "it": {
+        "true": "Si",
+        "false": "No"
+    },
+    "cs": {
+        "true": "Ano",
+        "false": "Ne"
+    },
+    "pl": {
+        "true": "Tak",
+        "false": "Nie"
+    },
+    "pt": {
+        "true": "Sim",
+        "false": "Não"
+    }
+}
