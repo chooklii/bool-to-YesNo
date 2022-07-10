@@ -1,4 +1,4 @@
-declare module "bool-To-YesNo" {
+declare module "bool-to-yesno" {
     function boolToYesNo(
         boolean: boolean,
         languageKey: string,

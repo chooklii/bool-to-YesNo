@@ -1,6 +1,6 @@
 {
   "name": "bool-to-yesno",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert boolean to equivalent Yes or No in a given language",
   "main": "index.js",
   "types": "index.d.ts",
